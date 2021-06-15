@@ -11,18 +11,17 @@ We will use these flight records to determine flight prices based on the differe
 ### Data Description
 
 Columns:
-
-    Airline
-    Date_of_Journey
-    Source
-    Destination
-    Route
-    Dep_Time
-    Arrival_Time
-    Duration
-    Total_Stops
-    Additional_Info
-    Price
+* Airline
+* Date_of_Journey
+* Source
+* Destination
+* Route
+* Dep_Time
+* Arrival_Time
+* Duration
+* Total_Stops
+* Additional_Info
+* Price
 
 ### Libraries Used
 
